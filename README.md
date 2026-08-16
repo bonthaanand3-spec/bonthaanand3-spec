@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on — Improving my existing projects and building new ones<br>👯 I’m looking to collaborate on — Web development and software projects<br>🤝 I’m looking for help with — Improving my development and problem-solving skills<br>🌱 I’m currently learning — ,python, Java, JavaScript, HTML & CSS<br>💬 Ask me about — My projects and programming<br>⚡ Fun fact — I enjoy learning new technologies and building practical proje
+🔭 I’m currently working on — Improving my existing projects and building new ones<br>👯 I’m looking to collaborate on — Web development and software projects<br>🤝 I’m looking for help with — Improving my development and problem-solving skills<br>🌱 I’m currently learning — ,python, Java, JavaScript, HTML & CSS<br>💬 Ask me about — My projects and programming<br>⚡ Fun fact — I enjoy learning new technologies and building practical projects
 
 
 ## 🌐 Socials:
